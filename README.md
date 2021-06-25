@@ -1,4 +1,4 @@
-# For Best in Class, Go for Glass.
+# For Top-Class, Go for Glass
 - Trevor Glascock (@TrevorGlascock)
 - Software Engineer
 - Contact: TrevorGlascock@gmail.com
