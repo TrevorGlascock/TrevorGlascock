@@ -4,4 +4,4 @@
 - Contact: TrevorGlascock@gmail.com
 - Linkedin: https://www.linkedin.com/in/trevor-glascock-472061210/
 - Twitter : https://twitter.com/GlascockTrevor
-- Website : https://theglascock.com/
+- Portfolio : https://theglascock.com/
