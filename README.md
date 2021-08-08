@@ -1,4 +1,4 @@
-# Go for Glass
+# Software Engineer  |  Go for Glass
 - Trevor Glascock (@TrevorGlascock)
 - Software Engineer
 - Contact: TrevorGlascock@gmail.com
